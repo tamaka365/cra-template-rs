@@ -2,7 +2,6 @@
   "name": "cra-template-rs",
   "version": "0.1.0",
   "description": "the best react starter",
-  "main": "index.js",
   "keywords": [],
   "repository": {
     "type": "git",
